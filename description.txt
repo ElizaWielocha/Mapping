@@ -1,0 +1,6 @@
+Exact algorithm (recurrence search):
+- loading from the file an instance of the mapping problem by the partial etching method (multiset A);
+- constructing a restriction map consistent with the given multi-set 
+ (one of the possible maps is enough);
+- writing the result on the output in a way that is readable for the user; 
+ in the absence of a solution (if the instance contains errors), the user should be informed by an appropriate message.
